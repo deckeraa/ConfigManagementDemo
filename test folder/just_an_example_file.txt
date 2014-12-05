@@ -1,1 +1,3 @@
+<p magic="true">
 This is an example file.
+</p>

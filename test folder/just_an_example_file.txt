@@ -3,6 +3,8 @@
 This is an example file.
 </p>
 
+<blink>Non-standard tag</blink>
+
 <p>
 Doing some additional markup in GNU/Linux to ensure that permissions
 still work.
